@@ -16,7 +16,6 @@ GenArt is an AI-powered platform that allows users to generate stunning images a
 
 Check out the live version of the application:  
 [GenArt - Live Demo](https://gen-art-arfan.vercel.app/)
-
 ---
 
 ## License
